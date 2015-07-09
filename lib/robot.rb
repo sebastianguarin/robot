@@ -1,0 +1,5 @@
+require  "robot/toy"
+require  "robot/table"
+require  "robot/controller"
+require  "robot/bound_error"
+require  "robot/command_parser"
